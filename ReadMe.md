@@ -28,5 +28,8 @@ As a refresher, Coniferum is currently in Version 0.0.0; the first release. It's
 - [ ] Make a process list to peek at currently running processes.
 - [ ] Implement a way to begin and kill processes.
 - [ ] Create a dummy kernel that Arbor can boot.
-- [ ] Support Multi-Booting.
+- [ ] Support Multi-Booting; make a new dummy kernel.
 - [ ] Add more glyphs to the text engine and features like color.
+
+## Help
+Coniferum won't boot? That's intentional. I haven't even made a function where it can begin to print out text. I just made the text engine.
